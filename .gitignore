@@ -1,0 +1,17 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local secrets and env overrides
+.env
+.env.local
+
+# Python (only if you ever run a helper script)
+__pycache__/
+*.pyc
